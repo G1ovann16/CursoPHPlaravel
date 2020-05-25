@@ -19,20 +19,17 @@
       </a>
 
       <a class="navbar-item">
-        Documentation
+        Recipes
       </a>
 
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">
-          More
+          More ...
         </a>
 
         <div class="navbar-dropdown">
           <a class="navbar-item">
             About
-          </a>
-          <a class="navbar-item">
-            Jobs
           </a>
           <a class="navbar-item">
             Contact

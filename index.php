@@ -1,5 +1,8 @@
- <?php
-    include_once 'var.php';
+<?php
+    // include_once "./var.php";
+    require_once "./db.php";
+    $carta=getPlates(conecx());
+    var_dump($carta);
 ?>
 
 <!DOCTYPE html>
